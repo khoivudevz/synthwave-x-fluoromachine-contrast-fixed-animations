@@ -1,0 +1,50 @@
+.monaco-workbench
+	.part.editor
+	> .content
+	.editor-group-container
+	> .title
+	.tabs-container
+	> .tab.sizing-fit.active {
+	box-shadow: inset 0 -5px 25px #fc28a825;
+	position: sticky;
+	background-image: url(https://i.ibb.co/dccLj9v/nyan-cat.gif);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: -50% 0;
+	animation: catMoving 10s linear infinite;
+}
+
+@keyframes catMoving {
+	0% {
+		background-position: -50% 0;
+	}
+	100% {
+		background-position: 150% 0;
+	}
+}
+
+
+/* Hover file */
+
+.monaco-workbench
+	.part.editor
+	> .content
+	.editor-group-container
+	> .title
+	.tabs-container
+	> .tab.sizing-fit:hover {
+	background-image: url(https://i.ibb.co/Jpwn6vY/bongo-cat.gif);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 0% 0px;
+	animation: bongoMoving 0.2s linear normal;
+}
+
+@keyframes bongoMoving {
+	0% {
+		background-position: 0% 20px;
+	}
+	100% {
+		background-position: 0% 0px;
+	}
+}

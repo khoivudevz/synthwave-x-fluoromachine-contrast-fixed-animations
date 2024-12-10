@@ -1,6 +1,6 @@
 {
 	"name": "synthwave-x-fluoromachine-contrast-fixed-animations-customized",
-	"displayName": "Synthwave x Fluoromachine & fixed epic animations & contrast & customized",
+	"displayName": "Synthwave x Fluoromachine & fixed epic animations & contrast & customized & customized",
 	"description": "This theme brings crazy 80's animations into your VS code 🚀🎉",
 	"version": "1.0.0",
 	"author": "Khoi Vu",
@@ -30,7 +30,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Synthwave x Fluoromachine & fixed epic animations & contrast",
+				"label": "Synthwave x Fluoromachine & fixed epic animations & contrast & customized",
 				"uiTheme": "vs-dark",
 				"path": "./themes/synthwave-x-fluoromachine.json"
 			}

@@ -1,4 +1,4 @@
-<h1 align="center" >Synthwave x Fluoromachine & fixed epic animations & contrast<br/><br/>
+<h1 align="center" >Synthwave x Fluoromachine & fixed epic animations & contrast & customized<br/><br/>
 </h1>
 
 <p align="center"><strong>This theme brings crazy 80's animations into your VS Code 🚀🎉 </strong></p>
