@@ -41,9 +41,10 @@ On Mac it might look something like the snippet below:
 
 {
   "vscode_custom_css.imports": [
-    "file:///Users/{your username}/.vscode/extensions/weswigham.synthwave-x-fluoromachine-contrast-fixed-animations-1.0.0/synthwave-x-fluoromachine.css",
-    "file:///Users/{your username}/.vscode/extensions/weswigham.synthwave-x-fluoromachine-contrast-fixed-animations-1.0.0/epic-80s-transitions.css",
-    "file:///Users/{your username}/.vscode/extensions/weswigham.synthwave-x-fluoromachine-contrast-fixed-animations-1.0.0/logo.css"
+    "file:///Users/{your username}/.vscode/extensions/khoivudev.synthwave-x-fluoromachine-contrast-fixed-animations-customized-1.0.0/synthwave-x-fluoromachine.css",
+    "file:///Users/{your username}/.vscode/extensions/khoivudev.synthwave-x-fluoromachine-contrast-fixed-animations-customized-1.0.0/epic-80s-transitions.css",
+    "file:///Users/{your username}/.vscode/extensions/khoivudev.synthwave-x-fluoromachine-contrast-fixed-animations-customized-1.0.0/logo.css"
+    "file:///Users/{your username}/.vscode/extensions/khoivudev.synthwave-x-fluoromachine-contrast-fixed-animations-customized-1.0.0/itsjinhk-wave.css"
   ]
 }
 
@@ -51,14 +52,13 @@ Windows might resemble:
 
 {
   "vscode_custom_css.imports": [
-    "file:///C:/Users/{your username}/.vscode/extensions/weswigham.synthwave-x-fluoromachine-contrast-fixed-animations-1.0.0/synthwave-x-fluoromachine.css",
-    "file:///C:/Users/{your username}/.vscode/extensions/weswigham.synthwave-x-fluoromachine-contrast-fixed-animations-1.0.0/epic-80s-transitions.css",
-    "file:///C:/Users/{your username}/.vscode/extensions/weswigham.synthwave-x-fluoromachine-contrast-fixed-animations-1.0.0/logo.css"
+    "file:///C:/Users/{your username}/.vscode/extensions/khoivudev.synthwave-x-fluoromachine-contrast-fixed-animations-customized-1.0.0/synthwave-x-fluoromachine.css",
+    "file:///C:/Users/{your username}/.vscode/extensions/khoivudev.synthwave-x-fluoromachine-contrast-fixed-animations-customized-1.0.0/epic-80s-transitions.css",
+    "file:///C:/Users/{your username}/.vscode/extensions/khoivudev.synthwave-x-fluoromachine-contrast-fixed-animations-customized-1.0.0/logo.css"
+    "file:///C:/Users/{your username}/.vscode/extensions/khoivudev.synthwave-x-fluoromachine-contrast-fixed-animations-customized-1.0.0/itsjinhk-wave.css"
   ]
 }
 
-Low spec machines (or just to disable animations):
-Instead of "epic-80s-transitions.css" use "epic-80s-transitions-low.css"
 
 ```
 
