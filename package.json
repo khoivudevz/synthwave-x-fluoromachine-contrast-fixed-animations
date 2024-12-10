@@ -1,14 +1,14 @@
 {
-	"name": "synthwave-x-fluoromachine-contrast-fixed-animations",
-	"displayName": "Synthwave x Fluoromachine & fixed epic animations & contrast",
+	"name": "synthwave-x-fluoromachine-contrast-fixed-animations-customized",
+	"displayName": "Synthwave x Fluoromachine & fixed epic animations & contrast & customized",
 	"description": "This theme brings crazy 80's animations into your VS code 🚀🎉",
 	"version": "1.0.0",
-	"author": "Wesley Wigham",
-	"publisher": "weswigham",
+	"author": "Khoi Vu",
+	"publisher": "khoivudev",
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/weswigham/synthwave-x-fluoromachine-contrast-fixed-animations"
+		"url": "https://github.com/khoivudevz/synthwave-x-fluoromachine-contrast-fixed-animations"
 	},
 	"engines": {
 		"vscode": "^1.74.0"

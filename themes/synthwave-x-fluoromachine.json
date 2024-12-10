@@ -47,7 +47,7 @@
     "editorHoverWidget.border": "#AE81FF75",
     "editorWidget.background": "#000000",
     "editorWidget.border": "#000000",
-    "editorIndentGuide.activeBackground": "#505050",
+    "editorIndentGuide.activeBackground1": "#505050",
     "breadcrumb.foreground": "#AE81FF",
     "menu.background": "#000000",
     "menu.border": "#AE81FF75",
@@ -168,10 +168,14 @@
     {
       "name": "Comment",
       "scope": [
-        "comment"
+        "comment",
+        "string.quoted.docstring.multi.python",
+        "string.quoted.docstring.multi.python punctuation.definition.string.begin.python",
+        "string.quoted.docstring.multi.python punctuation.definition.string.end.python"
       ],
       "settings": {
-        "foreground": "#FD971F"
+        "foreground": "#FD971F",
+        "fontStyle": "italic"
       }
     },
     {
